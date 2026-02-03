@@ -24,7 +24,7 @@ main:
   - title: "UAV-Assisted Heterogeneous Cloud Radio Access Network With Comprehensive Interference Management"
     authors: <strong>Jie Lu</strong>, Jingfu Li, F. Richard Yu, Weiheng Jiang, Wenjiang Feng
     conference_short: TVT
-    conference: IEEE Transactions on Vehicular Technology, 2025.
+    conference: IEEE Transactions on Vehicular Technology, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224325
     #code: https://github.com/xslice-5G/code
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -32,3 +32,13 @@ main:
     #notes: Oral Presentation
     image: ./assets/img/fig_im.png
 
+  - title: "SIC-STIA-IS: An Interference Management Scheme for the UAV-Assisted Heterogeneous Network"
+    authors: <strong>Jie Lu</strong>, Jiangtian Nie, Jingfu Li, Wenjiang Feng, Zehui Xiong, Dusit Niyato, Weiheng Jiang
+    conference_short: ICC
+    conference: IEEE International Conference on Communications <strong>(ICC)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10278947
+    #code: https://github.com/xslice-5G/code
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iNm_llV2CDQJ:scholar.google.com/&output=citation&scisdr=Cn1FVq2rEIr15kCJuX8:AHkA5jQAAAAAaYGPoX8qB3oTF3hbhdh3n6j-kJ0&scisig=AHkA5jQAAAAAaYGPobdrGm8hvQF08agpt9AREBc&scisf=4&ct=citation&cd=-1&hl=en
+    #notes: Oral Presentation
+    image: ./assets/img/fig_sic.png
