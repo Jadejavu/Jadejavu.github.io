@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science and Engineering at Michigan State University, advised by Prof. Huacheng Zeng. My research focuses on AI-driven wireless networking systems.
+I am a Ph.D. student in Computer Science and Engineering at Michigan State University, advised by Prof. [Huacheng Zeng](https://inss.egr.msu.edu/). My research focuses on AI-driven wireless networking systems.
 
 ## Research Interests
 
