@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science and Engineering at Michigan State University, advised by Prof. [Huacheng Zeng](https://inss.egr.msu.edu/). My research focuses on AI-driven wireless networking systems.
+I am a Ph.D. student in Computer Science and Engineering at [Michigan State University (MSU)](https://msu.edu/), advised by Prof. [Huacheng Zeng](https://inss.egr.msu.edu/). My research focuses on AI-driven wireless networking systems.
 
 ## Research Interests
 
@@ -13,7 +13,7 @@ I am a Ph.D. student in Computer Science and Engineering at Michigan State Unive
 
 ## News
 
-- **[Dec. 2025]** Our paper EExApp is accepted to IEEE INFOCOM 2026. My first paper of the Ph.D. journey! 
+- **[Dec. 2025]** Our paper EExApp is accepted to [IEEE INFOCOM 2026](https://infocom2026.ieee-infocom.org/). My first paper of the Ph.D. journey! 
 - **[Oct. 2025]** Successfully passing the qualifying exam.
 
 
