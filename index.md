@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Computer Science and Engineering at Michigan State University, advised by Prof. Huacheng Zeng. My research focuses on AI-driven wireless networking systems.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Wireless Networking:** 5G NR, O-RAN, Online Resource Management
+- **Machine Learning:** Deep Reinfocement Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2025]** Our paper EExApp is accepted to IEEE INFOCOM 2026. My first paper of my Ph.D. journey! 
+- **[Oct. 2025]** Successfully passing the qualifying exam! 
+
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
