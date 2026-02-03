@@ -8,7 +8,7 @@ I am a Ph.D. student in Computer Science and Engineering at [Michigan State Univ
 
 ## Research Interests
 
-- **Wireless Networking:** 5G NR, O-RAN, Online Resource Management
+- **Wireless Networking:** 5G NR, O-RAN, Online Radio Resource Management
 - **Machine Learning:** Deep Reinfocement Learning
 
 ## News
