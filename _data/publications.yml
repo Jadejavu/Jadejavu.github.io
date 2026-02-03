@@ -1,22 +1,24 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "EExApp: GNN-Based Reinforcement Learning for Radio Unit Energy Optimization in 5G O-RAN"
+    authors: <strong>Jie Lu</strong>, Peihao Yan, Huacheng Zeng
+    conference_short: INFOCOM
+    conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, 2026.
+    pdf: https://inss.egr.msu.edu/papers/Jie_EExApp_INFOCOM2026.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/fig_eexapp.png
+    notes: "Acceptance rate: 18.9%"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Near-Real-Time Resource Slicing for QoS Optimization in 5G O-RAN using Deep Reinforcement Learning"
+    authors: Peihao Yan, <strong>Jie Lu</strong>, Huacheng Zeng, Y. Thomas Hou
+    conference_short: TON
+    conference: IEEE/ACM Transactions on Networking, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11244863
+    code: https://github.com/xslice-5G/code
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:155ZrOiknksJ:scholar.google.com/&output=citation&scisdr=Cn1FVq2rEIr15kBpmFQ:AHkA5jQAAAAAaYFvgFROrFFvmeN9R1gjoBAWlho&scisig=AHkA5jQAAAAAaYFvgK3hA8osEU8sW4ZuBy8r4mg&scisf=4&ct=citation&cd=-1&hl=en
+    #notes: Oral Presentation
+    image: ./assets/img/fig_xslice.png
+
+    
