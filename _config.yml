@@ -4,11 +4,13 @@ position: Ph.D. Student
 affiliation: Michigan State University (MSU)
 affiliation_link: https://msu.edu/
 email: lujie2 [at] msu.edu
+url: https://jadejavu.github.io
+baseurl: ""
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: "jie lu, msu, phd, wireless, 5g, 6g, nr, oran, o-ran, reinforcement learning"
-description: Personal Website of Jie Lu, a CS Ph.D. student at Michigan State University researching AI-driven wireless networking systems.
+description: Jie Lu is a Computer Science Ph.D. student at Michigan State University (MSU) researching AI-driven wireless networking systems.
 canonical: https://jadejavu.github.io/
 
 # Links 
@@ -45,6 +47,9 @@ google_analytics: G-3730J71LXR
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
+plugins:
+  - jekyll-sitemap
+
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
@@ -56,3 +61,5 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - vendor/
+  - .bundle/

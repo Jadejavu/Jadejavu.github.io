@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{ site.position }} at {{ site.affiliation }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,9 +13,48 @@
     {% if site.canonical %}
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "{{ site.url }}/#person",
+          "name": "Jie Lu",
+          "url": "{{ site.url }}/",
+          "jobTitle": "{{ site.position }}",
+          "description": "{{ site.description }}",
+          "email": "mailto:{{ site.email | replace: ' [at] ', '@' }}",
+          "affiliation": {
+            "@type": "CollegeOrUniversity",
+            "name": "{{ site.affiliation }}",
+            "url": "{{ site.affiliation_link }}"
+          },
+          "sameAs": [
+            "{{ site.google_scholar }}",
+            "{{ site.linkedin }}"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "{{ site.url }}/#website",
+          "url": "{{ site.url }}/",
+          "name": "Jie Lu",
+          "description": "{{ site.description }}",
+          "publisher": {
+            "@id": "{{ site.url }}/#person"
+          }
+        }
+      ]
+    }
+    </script>
 
+    {% if site.favicon_dark %}
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+    {% endif %}
+    {% if site.favicon %}
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    {% endif %}
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
