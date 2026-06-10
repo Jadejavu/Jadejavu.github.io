@@ -23,7 +23,7 @@ I am a Ph.D. student in Computer Science and Engineering at [Michigan State Univ
 
 ## Teaching Experience
 
-- Teaching Assistant, CSE 422 - Computer Networks, Michigan State University
+- Teaching Assistant, CSE 422 - Computer Networks (Spring 2026, MSU)
 
 
 ## Honors
