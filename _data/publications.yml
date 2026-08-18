@@ -1,5 +1,13 @@
 main:
 
+  - title: "Deep Reinforcement Learning for 6G AI-RAN: A Comprehensive Survey"
+    authors: <strong>Jie Lu</strong>, Peihao Yan, Qijun Wang, Ruxin Lin, Huacheng Zeng
+    conference_short: arXiv
+    conference: arXiv, 2026.
+    url: https://arxiv.org/abs/2608.14877
+    pdf: https://arxiv.org/pdf/2608.14877
+    image: ./assets/img/fig_survey.png
+
   - title: "EExApp: GNN-Based Reinforcement Learning for Radio Unit Energy Optimization in 5G O-RAN"
     authors: <strong>Jie Lu</strong>, Peihao Yan, Huacheng Zeng
     conference_short: INFOCOM

@@ -12,7 +12,7 @@ I am a Ph.D. student in Computer Science and Engineering at [Michigan State Univ
 - **Machine Learning:** Deep Reinforcement Learning
 
 ## News
-
+- **[Aug. 2026]** Our survey paper, **[Deep Reinforcement Learning for 6G AI-RAN](https://arxiv.org/abs/2608.14877)**, is now available on arXiv. Thanks to all our co-authors!
 - **[Dec. 2025]** Our paper EExApp is accepted to [IEEE INFOCOM 2026](https://infocom2026.ieee-infocom.org/). My first paper of the Ph.D. journey! 
 - **[Oct. 2025]** Successfully passing the qualifying exam.
 
